@@ -1,0 +1,5 @@
+/home/cwb/code/orangepi3b/project/build_x64/CMakeFiles/edit_cache.dir
+/home/cwb/code/orangepi3b/project/build_x64/CMakeFiles/rebuild_cache.dir
+/home/cwb/code/orangepi3b/project/build_x64/src/opencv_test/CMakeFiles/opencv_test.dir
+/home/cwb/code/orangepi3b/project/build_x64/src/opencv_test/CMakeFiles/edit_cache.dir
+/home/cwb/code/orangepi3b/project/build_x64/src/opencv_test/CMakeFiles/rebuild_cache.dir

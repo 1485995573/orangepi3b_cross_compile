@@ -1,2 +1,0 @@
-# orangepi3b_cross_compile
-orangepi3b的X64交叉编译环境
